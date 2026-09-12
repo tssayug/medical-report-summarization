@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+peft
+accelerate
+sentencepiece
+evaluate
+rouge_score
+pandas
