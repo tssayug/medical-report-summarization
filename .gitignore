@@ -1,0 +1,12 @@
+# Data and Checkpoints
+data/
+outputs/
+*.csv
+*.safetensors
+*.bin
+
+# Environments and Python artifacts
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
