@@ -1,12 +1,12 @@
-# Data and Checkpoints
+# Raw Data (Ignored)
 data/
-outputs/
 *.csv
-*.safetensors
-*.bin
 
-# Environments and Python artifacts
+# Python Environments & Cache (Ignored)
 venv/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+# Allow the LoRA adapter folder
+!outputs/flan_t5_lora_results/best_lora_model/*
