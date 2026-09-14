@@ -9,3 +9,5 @@ sentencepiece
 evaluate
 rouge_score
 pandas
+streamlit
+plotly
